@@ -39,6 +39,14 @@ gvimext.dll
 gvimext.lib
 runtime/doc/uganda.nsis.txt
 
+# Visual Studio 2015
+src/Debug
+src/Release
+*.opensdf
+*.sdf
+*.user
+*.aps
+
 # Borland C++
 bcc.cfg
 *.ilc
