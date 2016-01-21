@@ -42,10 +42,14 @@ runtime/doc/uganda.nsis.txt
 # Visual Studio 2015
 src/Debug
 src/Release
+src/x64/Debug
+src/x64/Release
 *.opensdf
 *.sdf
 *.user
 *.aps
+*.iobj
+*.ipdb
 
 # Borland C++
 bcc.cfg

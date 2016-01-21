@@ -252,6 +252,15 @@
     <ClCompile Include="gui_w32.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="crypt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crypt_zip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="winclip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="proto\if_mzsch.pro">
